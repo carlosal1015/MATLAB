@@ -1,2 +1,2 @@
-# MATLAB
-Curso de MATLAB
+# Curso de MATLAB #
+** Primera clase **
