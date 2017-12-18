@@ -1,0 +1,44 @@
+Profesora: María Pimentel Herrera.
+
+Maria Pimentel Herrera
+
+uni.kernel@gmail.com
+
+asunto: matlab
+
+apellidos:
+nombres:
+comentario:
+
+Se pueden hacer gráficos en 2D y 3D.
+Labview (parte de control)
+
+Toolbox
+
+Se puede usar modo de prueba por 30 días.
+En Brasil MB 2, Ginebra I ciclo.
+
+Formato
+bank 3.14
+rat	355/113
+clc curso parte superior
+clear (limpia las variables)
+n = input (' ingrese un valor: ' );
+format;
+disp (' format')
+
+format short
+
+format long
+
+format +
+
+format bank
+
+format rat
+
+format hex
+
+con % vuelvo comentario.
+
+scicy,  octave
