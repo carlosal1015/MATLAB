@@ -1,0 +1,6 @@
+clear all
+clc
+A = magic(4)
+% Cambiando valor de la  posición 8 al valor 28.
+A(8) = 28;
+A(4,:)
