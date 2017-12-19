@@ -1,0 +1,5 @@
+clear all
+clc
+A = magic(3)
+v = [-1 0 1]
+[A:v]
