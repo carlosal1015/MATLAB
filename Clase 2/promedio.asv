@@ -1,0 +1,4 @@
+function c=promedio(R)
+n=length(R);
+
+

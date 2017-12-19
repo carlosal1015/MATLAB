@@ -1,0 +1,5 @@
+function b=invert(R)
+for i=1:9
+    v(i)=1/R(i);
+end
+v

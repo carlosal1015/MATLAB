@@ -1,0 +1,112 @@
+Para saber la versión digitamos:
+version, el valor 9.0 .... se guarda en ans
+con ver, nos mostrará con más detalles.
+clc,, limpia la pantalla y lo muestra arriba,
+equivalente al clear.
+
+7+9.3
+todo valor que muestra se almacena en ans.
+
+Todo valor asi sea un numero es una matriz,
+con a se asignará
+a = 5
+a =
+   5 
+whos nos dice que es una matriz de 1x1
+b = [1 2 3]
+>> c = [3 5; 7 9]
+>> d = [1 2 3; 4 5 6]
+>> e = [9,8,7,5,-1]
+
+En Matlab las mayúsculas son diferentes a
+las minúsculas.
+
+Para eliminar una variable se escribe
+clear a
+
+Todos los comandos son en minúsculas, 
+para asignar valores deben empezar con
+letras
+
+%¿Se puede redefinir operaciones?
+
+>> C =[3 5; 7 9]
+
+C =
+
+     3     5
+     7     9
+C(2,1)
+ans = 
+	7
+C(:) %lo vectoriza
+ans =
+
+     3
+     7
+     5
+     9
+>> C(1,:)
+
+ans =
+
+     3     5
+>> C(2,:)
+
+ans =
+
+     7     9
+>> C(:,2)
+
+ans =
+
+     5
+     9
+Teoría de matrices:
+A=[a11, a12: a21, a22]
+B=[b11, b12: b21, b22]
+A\pm = [a11\pm b11, a12\pm b12;a21\pm b21, a22\pm b22]
+A_{nm}*B_{m,k}=P_{n,k}
+Por ejemplo:
+A_{22}*B_{22}=P_{22}
+Así:
+p11=dot(a11 a12, b11 b21)
+p12=dot(a11 a12, b12 b22)
+p21=dot(a21 a22, b11 b21)
+p22=dot(a21 a22, b12 b22)
+
+clc clear cache?
+con ' lo vuelve matriz transpuesta.
+Cómo construir matriz simétrica, (B+B')/2
+Para construir la antisimétrica (B-B')/2
+
+times(matrix1, matrix2) (HADAMARD)
+C = A.*B
+C = times(A,B)
+
+help format
+micromundo % Se puede programar.
+logo pi con 100 digitos
+dibujando con la tortuga
+
+>> format long
+>> pi
+
+ans =
+
+   3.141592653589793
+
+>> eps
+
+ans =
+
+     2.220446049250313e-16
+
+>> format bank
+>> pi
+
+ans =
+
+          3.14
+path, no se debe eliminar, sino se tendrá que volver
+a instalar el programa.

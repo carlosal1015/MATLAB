@@ -1,0 +1,7 @@
+clear all
+clc
+A = magic(3);
+B = [1 -2 3; 5 4 8; 0 3 17];
+disp('Suma de matrices');
+Suma = A + B
+disp

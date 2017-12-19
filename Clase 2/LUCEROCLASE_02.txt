@@ -1,0 +1,880 @@
+3^2-5-6\3*2
+
+ans =
+
+          3.00
+
+
+ans =
+??? ans =
+         |
+Error: Expression or statement is incomplete or incorrect.
+
+base=21.3
+
+base =
+
+         21.30
+
+altura =5
+
+altura =
+
+          5.00
+
+x=25
+
+x =
+
+         25.00
+
+X=25,...
+
+
+X =
+
+         25.00
+
+exp(x)
+
+ans =
+
+ 72004899337.39
+
+log(x)
+
+ans =
+
+          3.22
+
+log10(x)
+
+ans =
+
+          1.40
+
+log2(x)
+
+ans =
+
+          4.64
+
+sqrt(x)
+
+ans =
+
+          5.00
+
+sin(x)
+
+ans =
+
+         -0.13
+
+sin(pi/3)
+
+ans =
+
+          0.87
+
+y=5.73
+
+y =
+
+          5.73
+
+fix(y)
+
+ans =
+
+          5.00
+
+ fix(-y)
+
+ans =
+
+         -5.00
+
+floor(y)
+
+ans =
+
+          5.00
+
+floor(-y)
+
+ans =
+
+         -6.00
+
+ceil(-y)
+
+ans =
+
+         -5.00
+
+round(-y)
+
+ans =
+
+         -6.00
+
+z=5.3
+
+z =
+
+          5.30
+
+fix(z)
+
+ans =
+
+          5.00
+
+floor(z)
+
+ans =
+
+          5.00
+
+floor(-z)
+
+ans =
+
+         -6.00
+
+ceil(-z)
+
+ans =
+
+         -5.00
+
+edit
+save varclase02
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+prog01
+
+y =
+
+          5.73
+
+FIX,aproximacion hacea CERO
+
+aprox1 =
+
+          5.00
+
+
+aprox2 =
+
+         -5.00
+
+FLOOR, aproximacion hacia el menos infinito
+
+aprox1 =
+
+          5.00
+
+
+aprox2 =
+
+         -6.00
+
+CEIL, 
+
+aprox1 =
+
+          6.00
+
+
+aprox2 =
+
+         -5.00
+
+ROUND
+
+aprox1 =
+
+          6.00
+
+
+aprox2 =
+
+         -6.00
+
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+prog01
+
+y =
+
+          5.20
+
+FIX,aproximacion hacea CERO
+
+aprox1 =
+
+          5.00
+
+
+aprox2 =
+
+         -5.00
+
+FLOOR, aproximacion hacia el menos infinito
+
+aprox1 =
+
+          5.00
+
+
+aprox2 =
+
+         -6.00
+
+CEIL, 
+
+aprox1 =
+
+          6.00
+
+
+aprox2 =
+
+         -5.00
+
+ROUND
+
+aprox1 =
+
+          5.00
+
+
+aprox2 =
+
+         -5.00
+
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+prog01
+
+y =
+
+          5.20
+
+FIX,aproximacion hacea CERO
+
+aprox1 =
+
+          5.00
+
+
+aprox2 =
+
+         -5.00
+
+FLOOR, aproximacion hacia el menos infinito
+
+aprox1 =
+
+          5.00
+
+
+aprox2 =
+
+         -6.00
+
+CEIL, 
+
+aprox1 =
+
+          6.00
+
+
+aprox2 =
+
+         -5.00
+
+ROUND
+
+aprox1 =
+
+          5.00
+
+
+aprox2 =
+
+         -5.00
+
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+prog01
+
+y =
+
+          5.50
+
+FIX,aproximacion hacea CERO
+
+aprox1 =
+
+          5.00
+
+
+aprox2 =
+
+         -5.00
+
+FLOOR, aproximacion hacia el menos infinito
+
+aprox1 =
+
+          5.00
+
+
+aprox2 =
+
+         -6.00
+
+CEIL, 
+
+aprox1 =
+
+          6.00
+
+
+aprox2 =
+
+         -5.00
+
+ROUND
+
+aprox1 =
+
+          6.00
+
+
+aprox2 =
+
+         -6.00
+
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+prog01
+ingrese valor:-4.
+FIX,aproximacion hacea CERO
+
+aprox1 =
+
+         -4.00
+
+
+aprox2 =
+
+          4.00
+
+FLOOR, aproximacion hacia el menos infinito
+
+aprox1 =
+
+         -4.00
+
+
+aprox2 =
+
+          4.00
+
+CEIL,aproximacion hacia el mas infinito 
+
+aprox1 =
+
+         -4.00
+
+
+aprox2 =
+
+          4.00
+
+ROUND,aproximacion al entero proximo
+
+aprox1 =
+
+         -4.00
+
+
+aprox2 =
+
+          4.00
+
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+prog01
+ingrese valor:-4.96
+FIX,aproximacion hacea CERO
+
+aprox1 =
+
+         -4.00
+
+
+aprox2 =
+
+          4.00
+
+FLOOR, aproximacion hacia el menos infinito
+
+aprox1 =
+
+         -5.00
+
+
+aprox2 =
+
+          4.00
+
+CEIL,aproximacion hacia el mas infinito 
+
+aprox1 =
+
+         -4.00
+
+
+aprox2 =
+
+          5.00
+
+ROUND,aproximacion al entero proximo
+
+aprox1 =
+
+         -5.00
+
+
+aprox2 =
+
+          5.00
+
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+prog01
+ingrese valor:-4.96
+FIX,aproximacion hacea CERO
+
+aprox1 =
+
+         -4.00          4.00
+
+FLOOR, aproximacion hacia el menos infinito
+
+aprox1 =
+
+         -5.00          4.00
+
+CEIL,aproximacion hacia el mas infinito 
+
+aprox1 =
+
+         -4.00          5.00
+
+ROUND,aproximacion al entero proximo
+??? Error using ==> round
+Not enough input arguments.
+
+Error in ==> <a href="matlab: opentoline('C:\Users\Master\Documents\MATLAB\prog01.m',12,0)">prog01 at 12</a>
+aprox1=[round (y), round (-y)]
+
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+prog01
+ingrese valor:-4.96
+FIX,aproximacion hacea CERO
+
+aprox1 =
+
+         -4.00          4.00
+
+FLOOR, aproximacion hacia el menos infinito
+
+aprox1 =
+
+         -5.00          4.00
+
+CEIL,aproximacion hacia el mas infinito 
+
+aprox1 =
+
+         -4.00          5.00
+
+ROUND,aproximacion al entero proximo
+??? Error using ==> round
+Not enough input arguments.
+
+Error in ==> <a href="matlab: opentoline('C:\Users\Master\Documents\MATLAB\prog01.m',12,0)">prog01 at 12</a>
+aprox1=[round (y), round (-y)]
+
+x=0:0.1:1.07
+
+x =
+
+  Columns 1 through 9
+
+             0          0.10          0.20          0.30          0.40          0.50          0.60          0.70          0.80
+
+  Columns 10 through 11
+
+          0.90          1.00
+
+y=linspace(0,1.07,11)
+
+y =
+
+  Columns 1 through 9
+
+             0          0.11          0.21          0.32          0.43          0.54          0.64          0.75          0.86
+
+  Columns 10 through 11
+
+          0.96          1.07
+
+%ambo empiezan en cero pero no termina en el mismo  numero 
+v=[-1 3 2 4 -8 3]
+
+v =
+
+         -1.00          3.00          2.00          4.00         -8.00          3.00
+
+V(2)
+??? Undefined function or method 'V' for input arguments of type 'double'.
+
+v(2)
+
+ans =
+
+          3.00
+
+v(end)
+
+ans =
+
+          3.00
+
+v(2)+5
+
+ans =
+
+          8.00
+
+v
+
+v =
+
+         -1.00          3.00          2.00          4.00         -8.00          3.00
+
+v(2)
+
+ans =
+
+          3.00
+
+v(2)=6
+
+v =
+
+         -1.00          6.00          2.00          4.00         -8.00          3.00
+
+v(2:4)
+
+ans =
+
+          6.00          2.00          4.00
+
+w=v(2:4)
+
+w =
+
+          6.00          2.00          4.00
+
+u=v([1,5,6])
+
+u =
+
+         -1.00         -8.00          3.00
+
+A=[1 -1 7; 2 4 2 ; 3 8 1]
+
+A =
+
+          1.00         -1.00          7.00
+          2.00          4.00          2.00
+          3.00          8.00          1.00
+
+A=[1 2 3;-1 4 8; 7 2 1]
+
+A =
+
+          1.00          2.00          3.00
+         -1.00          4.00          8.00
+          7.00          2.00          1.00
+
+A([1,3])
+
+ans =
+
+          1.00          7.00
+
+A(2,:)
+
+ans =
+
+         -1.00          4.00          8.00
+
+A(:.3)
+??? A(:.3)
+       |
+Error: Unexpected MATLAB expression.
+
+A(:,3)
+
+ans =
+
+          3.00
+          8.00
+          1.00
+
+A=[1 2 3 4 5;6 7 8 9 10;11 12 13 14 15;16 17 18 19 20]
+
+A =
+
+          1.00          2.00          3.00          4.00          5.00
+          6.00          7.00          8.00          9.00         10.00
+         11.00         12.00         13.00         14.00         15.00
+         16.00         17.00         18.00         19.00         20.00
+
+A(2,5)
+
+ans =
+
+         10.00
+
+A(10)
+
+ans =
+
+          8.00
+
+A(1:2:4,1:3:5)
+
+ans =
+
+          1.00          4.00
+         11.00         14.00
+
+A([1 3],[1 4])
+
+ans =
+
+          1.00          4.00
+         11.00         14.00
+
+uiimport('C:\Users\Master\Desktop\matlab.mat')
+uiimport('C:\Users\Master\Desktop\matlab.mat')
+uiimport('C:\Users\Master\Documents\MATLAB\variables01.mat')
+uiimport('C:\Users\Master\Desktop\varclase02.mat')
+uiimport('C:\Users\Master\Desktop\varclase02.mat')
+uiimport('C:\Users\Master\Desktop\varclase02.mat')
+uiopen('C:\Users\Master\Documents\MATLAB\prog01.m',1)
+uiimport('C:\Users\Master\Desktop\variables01.mat')
+A =ones (2,5),v= [1 2 3 4 5]
+
+A =
+
+          1.00          1.00          1.00          1.00          1.00
+          1.00          1.00          1.00          1.00          1.00
+
+
+v =
+
+          1.00          2.00          3.00          4.00          5.00
+
+size(A)
+
+ans =
+
+          2.00          5.00
+
+sixe(A,1)
+??? Undefined function or method 'sixe' for input arguments of type 'double'.
+
+size (A,1)
+
+ans =
+
+          2.00
+
+size (A,2)
+
+ans =
+
+          5.00
+
+[m n]=size(A)
+
+m =
+
+          2.00
+
+
+n =
+
+          5.00
+
+A.'
+
+ans =
+
+          1.00          1.00
+          1.00          1.00
+          1.00          1.00
+          1.00          1.00
+          1.00          1.00
+
+A'
+
+ans =
+
+          1.00          1.00
+          1.00          1.00
+          1.00          1.00
+          1.00          1.00
+          1.00          1.00
+
+WHOS
+??? Undefined function or variable 'WHOS'.
+
+whos
+  Name                  Size            Bytes  Class      Attributes
+
+  A                     2x5                80  double               
+  B                     3x3                72  double               
+  C                     3x5               120  double               
+  J                     4x3                96  double               
+  K                     2x4                64  double               
+  K1                    8x1                64  double               
+  M                     3x3                72  double               
+  MesAntisimetrica      4x4                16  logical              
+  MesSimetrica          4x4                16  logical              
+  R                     4x3                96  double               
+  R0                    4x3                96  double               
+  R1                    4x3                96  double               
+  RC                    4x6               192  double               
+  RS                    4x6               192  double               
+  RT                    8x6               384  double               
+  U                     5x4               160  double               
+  V                     1x4                 4  logical              
+  W                     3x3                72  double               
+  X                     1x1                 8  double               
+  a                     1x4                32  double               
+  altura                1x1                 8  double               
+  ans                   5x2                80  double               
+  aprox1                1x2                16  double               
+  b                     1x4                32  double               
+  base                  1x1                 8  double               
+  c                     1x1                 8  double               
+  f                     1x1                 8  double               
+  ind                   6x1                48  double               
+  indice                3x1                24  double               
+  indiceS               5x1                40  double               
+  m                     1x1                 8  double               
+  n                     1x1                 8  double               
+  u                     1x3                24  double               
+  v                     1x5                40  double               
+  w                     1x3                24  double               
+  x                     1x1                 8  double               
+  y                     1x1                 8  double               
+  z                     1x1                 8  double               
+
+C
+
+C =
+
+             0             0             0             0             0
+             0             0             0             0             0
+             0             0             0             0             0
+
+
+
+
+
+
+C= magic(3)
+
+C =
+
+          8.00          1.00          6.00
+          3.00          5.00          7.00
+          4.00          9.00          2.00
+
+D=magic(4)
+
+D =
+
+         16.00          2.00          3.00         13.00
+          5.00         11.00         10.00          8.00
+          9.00          7.00          6.00         12.00
+          4.00         14.00         15.00          1.00
+
+det(D)
+
+ans =
+
+             0
+
+inv(C)
+
+ans =
+
+          0.15         -0.14          0.06
+         -0.06          0.02          0.11
+         -0.02          0.19         -0.10
+
+%magic que la suma de fila y columnas es iguales
+E= magic (2)
+
+E =
+
+          1.00          3.00
+          4.00          2.00
+
+C'
+
+ans =
+
+          8.00          3.00          4.00
+          1.00          5.00          9.00
+          6.00          7.00          2.00
+

@@ -1,0 +1,519 @@
+A=[5 4 2; 4 5 2; 2 2 2]
+
+A =
+
+     5     4     2
+     4     5     2
+     2     2     2
+
+fprintf('determinante(A)=%0.0f\n\n',det(A);
+??? fprintf('determinante(A)=%0.0f\n\n',det(A);
+                                              |
+Error: Unbalanced or unexpected parenthesis or bracket.
+
+)
+??? )
+    |
+Error: Unbalanced or unexpected parenthesis or bracket.
+
+fprintf('determinante(A)=%0.0f\n\n',det(A));
+determinante(A)=10
+
+edit
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+meli1
+ángulos conocidos
+ángulos : pi/6 pi/4 pi/3
+f.sen:    0.50 %8.2f     0.71
+f.sen:    0.87 %8.2f f.cos:    0.87 %8.2f     0.71
+f.cos:    0.50 %8.2f f.tan:    0.58 %8.2f     1.00
+f.tan:    1.73 %8.2f ??? Undefined function or method 'ctan' for input arguments of type 'double'.
+
+Error in ==> <a href="matlab: opentoline('C:\Users\Master\Documents\MATLAB\meli1.m',9,0)">meli1 at 9</a>
+fprintf('f.ctan:%8.2f %%8.2f %8.2f\n',ctan(v(1)),ctan(v(2)),ctan(v(3)));
+
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+meli1
+ángulos conocidos
+ángulos : pi/6 pi/4 pi/3
+f.sen:    0.50 %8.2f     0.71
+f.sen:    0.87 %8.2f f.cos:    0.87 %8.2f     0.71
+f.cos:    0.50 %8.2f f.tan:    0.58 %8.2f     1.00
+f.tan:    1.73 %8.2f ??? Undefined function or method 'ctan' for input arguments of type 'double'.
+
+Error in ==> <a href="matlab: opentoline('C:\Users\Master\Documents\MATLAB\meli1.m',9,0)">meli1 at 9</a>
+fprintf('f.ctan:%8.2f %%8.2f %8.2f\n',ctan(v(1)),cot(v(2)),cot(v(3)));
+
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+meli1
+ángulos conocidos
+ángulos : pi/6 pi/4 pi/3
+f.sen:    0.50 %8.2f     0.71
+f.sen:    0.87 %8.2f f.cos:    0.87 %8.2f     0.71
+f.cos:    0.50 %8.2f f.tan:    0.58 %8.2f     1.00
+f.tan:    1.73 %8.2f ??? Undefined function or method 'ctan' for input arguments of type 'double'.
+
+Error in ==> <a href="matlab: opentoline('C:\Users\Master\Documents\MATLAB\meli1.m',9,0)">meli1 at 9</a>
+fprintf('f.ctan:%8.2f %%8.2f %8.2f\n',ctan(v(1)),cot(v(2)),cot(v(3)));
+
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+meli1
+ángulos conocidos
+ángulos : pi/6 pi/4 pi/3
+f.sen:    0.50 %8.2f     0.71
+f.sen:    0.87 %8.2f f.cos:    0.87 %8.2f     0.71
+f.cos:    0.50 %8.2f f.tan:    0.58 %8.2f     1.00
+f.tan:    1.73 %8.2f ??? Undefined function or method 'ctan' for input arguments of type 'double'.
+
+Error in ==> <a href="matlab: opentoline('C:\Users\Master\Documents\MATLAB\meli1.m',9,0)">meli1 at 9</a>
+fprintf('f.ctan:%8.2f %%8.2f %8.2f\n',ctan(v(1)),cot(v(2)),cot(v(3)));
+
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+meli1
+ángulos conocidos
+ángulos : pi/6 pi/4 pi/3
+f.sen:    0.50 %8.2f     0.71
+f.sen:    0.87 %8.2f f.cos:    0.87 %8.2f     0.71
+f.cos:    0.50 %8.2f f.tan:    0.58 %8.2f     1.00
+f.tan:    1.73 %8.2f ??? Undefined function or method 'ctan' for input arguments of type 'double'.
+
+Error in ==> <a href="matlab: opentoline('C:\Users\Master\Documents\MATLAB\meli1.m',9,0)">meli1 at 9</a>
+fprintf('f.ctan:%8.2f %%8.2f %8.2f\n',ctan(v(1)),cot(v(2)),cot(v(3)));
+
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+meli1
+ángulos conocidos
+ángulos : pi/6 pi/4 pi/3
+f.sen:    0.50 %8.2f     0.71
+f.sen:    0.87 %8.2f f.cos:    0.87 %8.2f     0.71
+f.cos:    0.50 %8.2f f.tan:    0.58 %8.2f     1.00
+f.tan:    1.73 %8.2f ??? Undefined function or method 'ctan' for input arguments of type 'double'.
+
+Error in ==> <a href="matlab: opentoline('C:\Users\Master\Documents\MATLAB\meli1.m',9,0)">meli1 at 9</a>
+fprintf('f.ctan:%8.2f %%8.2f %8.2f\n',ctan(v(1)),cot(v(2)),cot(v(3)));
+
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+meli1
+ángulos conocidos
+ángulos : pi/6 pi/4 pi/3
+f.sen:    0.50 %8.2f     0.71
+f.sen:    0.87 %8.2f f.cos:    0.87 %8.2f     0.71
+f.cos:    0.50 %8.2f f.tan:    0.58 %8.2f     1.00
+f.tan:    1.73 %8.2f f.ctan:    1.73 %8.2f     1.00
+f.ctan:    0.58 %8.2f f.sec:    1.15 %8.2f     1.41
+f.sec:    2.00 %8.2f ??? Undefined function or method 'csec' for input arguments of type 'double'.
+
+Error in ==> <a href="matlab: opentoline('C:\Users\Master\Documents\MATLAB\meli1.m',11,0)">meli1 at 11</a>
+fprintf('f.csec:%8.2f %%8.2f %8.2f\n',csec(v(1)),csec(v(2)),csec(v(3)));
+
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+meli1
+ángulos conocidos
+ángulos : pi/6 pi/4 pi/3
+f.sen:    0.50 %8.2f     0.71
+f.sen:    0.87 %8.2f f.cos:    0.87 %8.2f     0.71
+f.cos:    0.50 %8.2f f.tan:    0.58 %8.2f     1.00
+f.tan:    1.73 %8.2f f.ctan:    1.73 %8.2f     1.00
+f.ctan:    0.58 %8.2f f.sec:    1.15 %8.2f     1.41
+f.sec:    2.00 %8.2f f.csec:    2.00 %8.2f     1.41
+f.csec:    1.15 %8.2f % Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+meli2
+ángulos conocidos
+ángulos: 30 45 60
+f.sen:    0.50 %8.2f     0.71
+f.sen:    0.87 %8.2f f.cos:    0.87 %8.2f     0.71
+f.cos:    0.50 %8.2f f.tan:    0.58 %8.2f     1.00
+f.tan:    1.73 %8.2f f.ctan:    1.73 %8.2f     1.00
+f.ctan:    0.58 %8.2f f.sec:    6.48 %8.2f     1.41
+f.sec:    2.00 %8.2f f.csec:    2.00 %8.2f     1.41
+f.csec:    1.15 %8.2f % Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+meli2
+ángulos conocidos
+ángulos: 30 45 60
+f.sen:    0.50     0.71     0.87
+f.cos:    0.87     0.71     0.50
+f.tan:    0.58     1.00     1.73
+f.ctan:    1.73     1.00     0.58
+f.sec:    6.48     1.41     2.00
+f.csec:    2.00     1.41     1.15
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+meli1
+ángulos conocidos
+ángulos : pi/6 pi/4 pi/3
+f.sen:    0.50     0.71     0.87
+f.cos:    0.87     0.71     0.50
+f.tan:    0.58     1.00     1.73
+f.ctan:    1.73     1.00     0.58
+f.sec:    1.15     1.41     2.00
+f.csec:    2.00     1.41     1.15
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+meli1
+ángulos conocidos
+ángulos : pi/6 pi/4 pi/3
+f.sen:    0.50     0.71     0.87
+f.cos:    0.87     0.71     0.50
+f.tan:    0.58     1.00     1.73
+f.ctan:    1.73     1.00     0.58
+f.sec:    1.15     1.41     2.00
+f.csec:    2.00     1.41     1.15
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+meli1
+ángulos conocidos
+ángulos : pi/6 pi/4 pi/3
+f.sen:    0.50     0.71     0.87
+f.cos:    0.87     0.71     0.50
+f.tan:    0.58     1.00     1.73
+f.ctan:    1.73     1.00     0.58
+f.sec:    1.15     1.41     2.00
+f.csec:    2.00     1.41     1.15
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+meli1
+ángulos conocidos
+ángulos : pi/6 pi/4 pi/3
+f.sen:    0.50     0.71     0.87
+f.cos:    0.87     0.71     0.50
+f.tan:    0.58     1.00     1.73
+f.ctan:    1.73     1.00     0.58
+f.sec:    1.15     1.41     2.00
+f.csec:    2.00     1.41     1.15
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+meli1
+ángulos conocidos
+ángulos : pi/6 pi/4 pi/3
+f.sen:    0.50     0.71     0.87
+f.cos:    0.87     0.71     0.50
+f.tan:    0.58     1.00     1.73
+f.ctan:    1.73     1.00     0.58
+f.sec:    1.15     1.41     2.00
+f.csec:    2.00     1.41     1.15
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+meli1
+ángulos conocidos
+ángulos : pi/6 pi/4 pi/3
+f.sen:    0.50     0.71     0.87
+f.cos:    0.87     0.71     0.50
+f.tan:    0.58     1.00     1.73
+f.ctan:    1.73     1.00     0.58
+f.sec:    1.15     1.41     2.00
+f.csec:    2.00     1.41     1.15
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+meli1
+ángulos conocidos
+ángulos : pi/6 pi/4 pi/3
+f.sen:    0.50     0.71     0.87
+f.cos:    0.87     0.71     0.50
+f.tan:    0.58     1.00     1.73
+f.ctan:    1.73     1.00     0.58
+f.sec:    1.15     1.41     2.00
+f.csec:    2.00     1.41     1.15
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+meli1
+ángulos conocidos
+ángulos : pi/6 pi/4 pi/3
+f.sen:    0.50     0.71     0.87
+f.cos:    0.87     0.71     0.50
+f.tan:    0.58     1.00     1.73
+f.ctan:    1.73     1.00     0.58
+f.sec:    1.15     1.41     2.00
+f.csec:    2.00     1.41     1.15
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+meli1
+ángulos conocidos
+ángulos : pi/6 pi/4 pi/3
+f.sen:    0.50     0.71     0.87
+f.cos:    0.87     0.71     0.50
+f.tan:    0.58     1.00     1.73
+f.ctan:    1.73     1.00     0.58
+f.sec:    1.15     1.41     2.00
+f.csec:    2.00     1.41     1.15
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+meli2
+ángulos conocidos
+ángulos: 30 45 60
+f.sen:    0.50     0.71     0.87
+f.cos:    0.87     0.71     0.50
+f.tan:    0.58     1.00     1.73
+f.ctan:    1.73     1.00     0.58
+f.sec:    6.48     1.41     2.00
+f.csec:    2.00     1.41     1.15
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+meli2
+ángulos conocidos
+ángulos: 30 45 60
+f.sen:    0.50     0.71     0.87
+f.cos:    0.87     0.71     0.50
+f.tan:    0.58     1.00     1.73
+f.ctan:    1.73     1.00     0.58
+f.sec:    6.48     1.41     2.00
+f.csec:    2.00     1.41     1.15
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+meli2
+ángulos conocidos
+ángulos: 30 45 60
+f.sen:    0.50     0.71     0.87
+f.cos:    0.87     0.71     0.50
+f.tan:    0.58     1.00     1.73
+f.ctan:    1.73     1.00     0.58
+f.sec:    6.48     1.41     2.00
+f.csec:    2.00     1.41     1.15
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+meli2
+ángulos conocidos
+ángulos: 30 45 60
+f.sen:    0.50     0.71     0.87
+f.cos:    0.87     0.71     0.50
+f.tan:    0.58     1.00     1.73
+f.ctan:    1.73     1.00     0.58
+f.sec:    6.48     1.41     2.00
+f.csec:    2.00     1.41     1.15
+-10:10;
+y=x.^2;
+??? Undefined function or variable 'x'.
+
+y=x.^2;
+??? Undefined function or variable 'x'.
+
+clear
+%hare de nuevo:
+x=-10:10;
+y=x.^2;
+plot}
+??? plot}
+        |
+Error: Unbalanced or unexpected parenthesis or bracket.
+
+plot(x,y)
+grid
+x=linspace(-pi,pi,250);
+y=sin(x);
+plot(x,y,'r')
+grid
+plot(x,y,'r') %entre los '' va el color x ejemplo:'r' es red
+grid % hara que aparezca una malla o red
+plot(x,y,'m') %entre los '' va el color x ejemplo:'m' es magenta
+grid % hara que aparezca una malla o red
+x=linspace(-pi,pi,250);
+y=sin(x);
+plot(x,y,'m*')% el asterisco en para hacerlo grueso
+grid
+x=linspace(-pi,pi,250);
+y=sin(x);
+plot(x,y,'go')
+x=linspace(-pi,pi,250);
+y=sin(x);
+plot(x,y,'m*')% el asterisco en para hacerlo grueso
+plot(x,y,'go')
+plot(x,y,'go')%como si fuera un helice
+x=linspace(-pi,pi,250);
+y=sin(x);
+plot(x,y,'k-.')%linea tipo guion
+grid
+x=linspace(-pi,pi,250);
+y=sin(x);
+x=linspace(-pi,pi,250);
+y=sin(x);
+plot(x,y,'og')%la g es de green, por ello podria poner otro color
+grid
+%si quiero GRAFICAR VARIOSSSSS
+subplot(1,1,1)
+x=linspace(-pi,pi,250);
+y=sin(x);
+subplot(2,2,1), plot(x,y,'r')
+subplot(2,2,2), plot(x,y,'m*') %es el de la derecha
+subplot(2,2,3), plot(x,y,'k-.') %es el segundo de la izquierda
+subplot(2,2,4), plot(x,y,'go') %OJO:(#filas,#columna,#de grafico) . Entonces sera el 4to grafico y sera verde por que lleva :g
+%si quiero 1 solo grafico
+subplot(1,1,1)
+s04155
+??? Undefined function or variable 's04155'.
+
+subplot(2,2,2)
+subplot(1,1,1)
+subplot(1,1,1) %se alista para 1 solo grafico
+x=linspace(-pi,pi,250);
+y=sin(x);
+subplot(2,2,1), plot(x,y,'r')
+subplot(2,2,2), plot(x,y,'m*') %es el de la derecha
+subplot(2,2,3), plot(x,y,'k-.') %es el segundo de la izquierda
+subplot(2,2,4), plot(x,y,'go')
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+s04155
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+s04155
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+s04155
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+s04155
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+s04155
+% Modify expression to add input arguments.
+% Example:
+%   a = [1 2 3; 4 5 6]; 
+%   foo(a);
+
+s04154
+x=-10:10,
+
+x =
+
+  Columns 1 through 12
+
+   -10    -9    -8    -7    -6    -5    -4    -3    -2    -1     0     1
+
+  Columns 13 through 21
+
+     2     3     4     5     6     7     8     9    10
+
+x=-10:10;
+y=x.^2;
+plot(x,y)
+plot(x,y) %solo cambiara la ultima grafica(la 4) de las graficas que ya tenia!!
+grid
+%si quiero tener el espacio para 1 sola grafica:
+subplot(1,1,1) %se alista para 1 solo grafico
+x=-10:10;y=x.^2;
+plot(x,y)
+subplot(1,1,1) %se alista para 1 solo grafico
+x=-10:10;y=x.^2;
+
+subplot(1,1,1) %se alista para 1 solo grafico
+x=-10:10;
+y=x.^2;
+plot(x,y)
+grid
+%al fin.... ^.^
+%GRAFICAS 2 GRAFICAS EN UNO
+fplot('sin(x)',[0.2*pi])
+??? Attempted to access lims(:,1); index out of bounds because
+numel(lims)=1.
+
+Error in ==> <a href="matlab: opentoline('C:\Program Files (x86)\MATLAB\R2008a\toolbox\matlab\specgraph\fplot.m',96,0)">fplot at 96</a>
+xmin = min(lims(1:2)); xmax = max(lims(1:2));
+
+fplot('sin(x)',[0 n2*pi])
+??? Undefined function or variable 'n2'.
+
+fplot('sin(x)',[0 2*pi])
+hold on 
+hold on %para que se mantenga la 1era grafica
+fplot('cos(x)',[0 2*pi]) %es la 2da funcion
+hold off % con esto olvida los dibujos anteriores
+clear
+ezplot('exp(x)')
+ezplot('exp(x)') %el ezplot te grafica en un rango determinado apropiado
+%GRAFICANDO EN 3D
+% 3d es con :ezsurf
+ezsurf('sin(x*y)',[-2 2 -2 2])
+diary off

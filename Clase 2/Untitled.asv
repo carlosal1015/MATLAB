@@ -1,0 +1,6 @@
+x=linspace(-1.5,1.5);y=2*sin(x).^exp(-x.^2);z=2*exp(-x.^2);
+plot(x,y,'-',x,z,'--') % dibujamos dos funciones
+title('Campanas de Gauss')
+xlabel('Eje de Abscisas') % Etiqueta el eje horizontal
+ylabel('Eje de Ordenadas') % Etiqueta el eje vertical
+legend('exp(-x^2)', '2*exp(-x^2)') % Pone una leyenda

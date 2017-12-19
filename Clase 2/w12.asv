@@ -1,0 +1,5 @@
+clc
+x=-10:10;
+y=x.^;
+plot(x,y)
+grid
