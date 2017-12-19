@@ -110,3 +110,6 @@ ans =
           3.14
 path, no se debe eliminar, sino se tendrá que volver
 a instalar el programa.
+
+Hay un error en el algoritmo del cálculo
+de la determinante debería de ser 0.
