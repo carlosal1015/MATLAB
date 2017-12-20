@@ -1,6 +1,6 @@
-# Clase 1 #
+# Primera clase (18/12/2017) #
 
-¿Qué es MATLAB?
+**¿Qué es MATLAB?**
 
 MatLab significa MaTrix LABoratory. Se pueden hacer gráficos en 2-D y 3-D.
 Labview se utiliza para la parte de control. También es muy frecuente usar los Toolbox.

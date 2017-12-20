@@ -1,7 +1,0 @@
-clear all
-clc
-disp('Matriz de ceros')%Markov
-zeros(2)
-zeros(3,2)
-disp('Matriz de unos');
-format

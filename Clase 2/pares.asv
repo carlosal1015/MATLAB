@@ -1,4 +1,0 @@
-function i=pares(x)
-for i=1:9
-    if mod(x(i),2)==0
-        fprintf('Hay %0.0f pares en ')
