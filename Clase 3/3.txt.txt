@@ -1,0 +1,531 @@
+Con el nombre diary.
+diary C:\Users\Master\Desktop\clase2\ejercicio02.txt
+El path
+Cuando se crea una ruta, se coloca al final.
+Si no se agrega bien una ruta, MATLAB pierde todas las direcciones, asì el comando no funciona y MATLAB deja de funcionar.
+
+Usando path no se direcciona.
+El ùnico signo de agrupaciòn es el parèntesis.
+alt + 94 ^
+alt + 92 \
+Renombrar en caso de omisiòn de exntesiòn de archivo.
+
+Falta hacer operaciones punto.
+
+Para las matrices se suele usar con mayùsculas, las mayusculas y
+minùsculas se diferencian, el nombre màximo es 63, lo estàndar es 8.
+El nombre de la una variable debe comenzar obligatoriamente con una letra.
+Como regla general, la variable debe hacer menciòn a su contenido.
+namel
+iskeyword
+namelenghtmax
+eps es un error de càlculo en el equipo.
+
+se separan kas variables por , 
+si se escribe; no se va imprimir, lo asigna el valor.
+
+Investigar diferencias entre ; en Matlab y Octave.
+
+>> x = 25,...
+y = x/5
+
+x =
+
+    25
+
+
+y =
+
+     5
+
+>> 
+Repaso de funciòn exponencial y logaritmo (rincòn matemàtica)
+Matlab puede presentar en centesimales.
+En otros programas log es de base 10, pero en Matlab es de base
+e.
+fix
+Enc iertos càlculos se usa mucho el rem.
+
+>> rand
+
+ans =
+
+    0.1712
+
+>> rand(7)
+
+ans =
+
+    0.7060    0.3171    0.1869    0.6797    0.5853    0.9593    0.8143
+    0.0318    0.9502    0.4898    0.6551    0.2238    0.5472    0.2435
+    0.2769    0.0344    0.4456    0.1626    0.7513    0.1386    0.9293
+    0.0462    0.4387    0.6463    0.1190    0.2551    0.1493    0.3500
+    0.0971    0.3816    0.7094    0.4984    0.5060    0.2575    0.1966
+    0.8235    0.7655    0.7547    0.9597    0.6991    0.8407    0.2511
+    0.6948    0.7952    0.2760    0.3404    0.8909    0.2543    0.6160
+
+>> rand(1,7)
+
+ans =
+
+    0.4733    0.3517    0.8308    0.5853    0.5497    0.9172    0.2858
+
+>> 
+fix tiende al cero, floor tiende al
+ceil se va a la derecha
+round se va hacia los modulos grandes
+>> \leftcorchete10:2:20 \rightcorchete empieza en 10, aumenta en 2 y termina en 20
+>> fix(-5.7)
+
+ans =
+
+    -5
+
+>> fix(5.7)
+
+ans =
+
+     5
+
+>> floor(-5.7)
+
+ans =
+
+    -6
+
+>> floor(5.7)
+
+ans =
+
+     5
+
+>> ceil(-5.7)
+
+ans =
+
+    -5
+
+>> ceil(5.7)
+
+ans =
+
+     6
+
+>> round(-5.7)
+
+ans =
+
+    -6
+
+>> round(5.7)
+
+ans =
+
+     6
+
+>> [10:2:20]
+
+ans =
+
+    10    12    14    16    18    20
+
+>> [15:1:19]
+
+ans =
+
+    15    16    17    18    19
+
+>> [1:0.5:2]
+
+ans =
+
+    1.0000    1.5000    2.0000
+
+>> [20:-0.3:18]
+
+ans =
+
+   20.0000   19.7000   19.4000   19.1000   18.8000   18.5000   18.2000
+
+>> 
+>> [10:2:20]
+
+ans =
+
+    10    12    14    16    18    20
+
+>> [15:1:19]
+
+ans =
+
+    15    16    17    18    19
+
+>> [1:0.5:2]
+
+ans =
+
+    1.0000    1.5000    2.0000
+
+>> [20:-0.3:18]
+
+ans =
+
+   20.0000   19.7000   19.4000   19.1000   18.8000   18.5000   18.2000
+
+>> [11:15]
+
+ans =
+
+    11    12    13    14    15
+
+>> [-3:3]
+
+ans =
+
+    -3    -2    -1     0     1     2     3
+
+>> [17:20]
+
+ans =
+
+    17    18    19    20
+
+>> 
+>> x = -3 :8 .7
+ x = -3 :8 .7
+           ?
+Error: Unexpected MATLAB expression.
+ 
+>> x=-3:8.7
+
+x =
+
+    -3    -2    -1     0     1     2     3     4     5     6     7     8
+
+>> x=(-3,8,12)
+ x=(-3,8,12)
+      ?
+Error: Expression or statement is incorrect--possibly unbalanced (, {, or [.
+ 
+>> x=linspace(-3,8,12)
+
+x =
+
+    -3    -2    -1     0     1     2     3     4     5     6     7     8
+
+>> x=linspace(-3,8,5)
+
+x =
+
+   -3.0000   -0.2500    2.5000    5.2500    8.0000
+
+>> x=-3:8
+
+x =
+
+    -3    -2    -1     0     1     2     3     4     5     6     7     8
+
+>> x=(-3:8)
+
+x =
+
+    -3    -2    -1     0     1     2     3     4     5     6     7     8
+
+>> z=[-3:1:8]
+
+z =
+
+    -3    -2    -1     0     1     2     3     4     5     6     7     8
+
+>> x =[3:8]
+
+x =
+
+     3     4     5     6     7     8
+
+>> x =[-3:8]
+
+x =
+
+    -3    -2    -1     0     1     2     3     4     5     6     7     8
+
+>> x = 0:0.1:1.07
+
+x =
+
+  Columns 1 through 8
+
+         0    0.1000    0.2000    0.3000    0.4000    0.5000    0.6000    0.7000
+
+  Columns 9 through 11
+
+    0.8000    0.9000    1.0000
+
+>> y = linspace(0,1.01,11)
+
+y =
+
+  Columns 1 through 8
+
+         0    0.1010    0.2020    0.3030    0.4040    0.5050    0.6060    0.7070
+
+  Columns 9 through 11
+
+    0.8080    0.9090    1.0100
+
+>> v=[-1 3 2 4 -8 7]
+
+v =
+
+    -1     3     2     4    -8     7
+
+>> v(2)
+
+ans =
+
+     3
+
+>> v(end)
+
+ans =
+
+     7
+
+>> v(2)+5
+
+ans =
+
+     8
+
+>> v(2)=6
+
+v =
+
+    -1     6     2     4    -8     7
+
+>> v(2:4)
+
+ans =
+
+     6     2     4
+
+>> v
+
+v =
+
+    -1     6     2     4    -8     7
+
+>> w = v(2:4)
+
+w =
+
+     6     2     4
+
+>> u = v([1,5, 6]) %define u con las coordenadas primera, quinta y sexta de v
+
+u =
+
+    -1    -8     7
+
+>> w = v(2:4) %define el vector w
+
+w =
+
+     6     2     4
+
+>> A = [1 2 3; -1 4 8; 7 2 1]
+
+A =
+
+     1     2     3
+    -1     4     8
+     7     2     1
+
+>> A
+
+A =
+
+     1     2     3
+    -1     4     8
+     7     2     1
+
+>> %GUI significa interfaz gràfica de usuario
+>> X = [1 2 3; -1 4 8]
+
+X =
+
+     1     2     3
+    -1     4     8
+
+>> Y = [5 5; 6 6]
+
+Y =
+
+     5     5
+     6     6
+
+>> Z = [X Y]
+
+Z =
+
+     1     2     3     5     5
+    -1     4     8     6     6
+
+>> 
+>> X1 = [1 2 3; -1 4 8]
+
+X1 =
+
+     1     2     3
+    -1     4     8
+
+>> X2 = [5 5; 6 6]
+
+X2 =
+
+     5     5
+     6     6
+
+>> C = [X1 X2], D=[X1';B]
+
+C =
+
+     1     2     3     5     5
+    -1     4     8     6     6
+
+Undefined function or variable 'B'.
+ 
+>> C = [X1 X2], D=[X1';X2]
+
+C =
+
+     1     2     3     5     5
+    -1     4     8     6     6
+
+
+D =
+
+     1    -1
+     2     4
+     3     8
+     5     5
+     6     6
+
+>> 
+>> A = [1 2 3 4 5; 6 7 8 9 10; 11 12 13 14 15; 16 17 18 19 20]
+
+A =
+
+     1     2     3     4     5
+     6     7     8     9    10
+    11    12    13    14    15
+    16    17    18    19    20
+
+>> ALPHA = [1:5;6:10]
+
+ALPHA =
+
+     1     2     3     4     5
+     6     7     8     9    10
+
+>> 
+>> A = [1 2 3 4 5; 6 7 8 9 10; 11 12 13 14 15; 16 17 18 19 20]
+
+A =
+
+     1     2     3     4     5
+     6     7     8     9    10
+    11    12    13    14    15
+    16    17    18    19    20
+
+>> ALPHA = [1:5;6:10]
+
+ALPHA =
+
+     1     2     3     4     5
+     6     7     8     9    10
+
+>> BETA = [1:5;6:10;11,15;16:20]
+Dimensions of matrices being concatenated are not
+consistent.
+ 
+>> BETA = [1:5;6:10;11:15;16:20]
+
+BETA =
+
+     1     2     3     4     5
+     6     7     8     9    10
+    11    12    13    14    15
+    16    17    18    19    20
+
+>> A (2,5)
+
+ans =
+
+    10
+
+>> A(1:3, 2:5)
+
+ans =
+
+     2     3     4     5
+     7     8     9    10
+    12    13    14    15
+
+>> %filas de la 1 a 3 y columnas de 2 a 5
+>> A(1:2:4, 1:3:5)
+
+ans =
+
+     1     4
+    11    14
+
+>> %filas 1 y 3, columnas 1, 4
+>> A(:, 1:2:5)
+
+ans =
+
+     1     3     5
+     6     8    10
+    11    13    15
+    16    18    20
+
+>> %fila 1 y 1+2=3, columnas 1 y columas 1+3=4 en A(1:2:4, 1:3:5)
+>> %una iteracion de sucesiones.
+>> B = [A(1:3,:) A(2:4,:)]
+
+B =
+
+     1     2     3     4     5     6     7     8     9    10
+     6     7     8     9    10    11    12    13    14    15
+    11    12    13    14    15    16    17    18    19    20
+
+>> C=[A(1:3,1:3); A(:,[1 3 5])]
+
+C =
+
+     1     2     3
+     6     7     8
+    11    12    13
+     1     3     5
+     6     8    10
+    11    13    15
+    16    18    20
+
+>> D = A([2 4], [3 5])
+
+D =
+
+     8    10
+    18    20
+
+>> A
+
+A =
+
+     1     2     3     4     5
+     6     7     8     9    10
+    11    12    13    14    15
+    16    17    18    19    20
+
+>> 
