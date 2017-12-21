@@ -23,4 +23,23 @@ Y(6:11)
 disp('6. Listar los elementos de posiciones impares del vector Y:')
 Y(1:2:11)
 disp('7. Listar los elementos de posiciones 2, 4, 5 y 7 del vector Y:')
-Y(2,4,5,7)
+Y([2,4,5,7])
+disp('8. Crear los vectores M=[5 4 3 2 1] y C=[17 9 8 25 12]')
+format
+M=[5 4 3 2 1], C=[17 9 8 25 12]
+disp('9. Fusionar los vectores M y C en un vector:')
+[M;C]
+disp('10. Obtener la transpuesta del vector K:')
+K.'
+disp('11. Obtener la transpuesta del vector Z:')
+Z.'
+disp('12. Crear las siguientes matrices:')
+disp('Parte a:')
+R = [4:-1:1; 5:1:8]
+disp('Parte b:')
+S = [1 1 2 2; 3 3 4 4]
+disp('13. Sumar las matrices R y S:')
+R+S
+disp('14. Multiplicar las matrices R y S:')
+%R*S
+disp('15. Multiplicar R con la transpuesta de S:')
