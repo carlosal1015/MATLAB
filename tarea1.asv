@@ -1,0 +1,5 @@
+clear; clc;
+format bank
+x1= 3; x2=sqrt(7); x3=pi; x4=exp(1)^12;
+X = [x1 x2 x3 x4] % Con dos decimales
+Y = [0:.1:1]
