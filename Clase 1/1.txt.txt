@@ -1,25 +1,3 @@
 En Brasil MB 2, Ginebra I ciclo.
 
-Formato
-bank 3.14
-rat	355/113
-clc curso parte superior
-clear (limpia las variables)
 n = input (' ingrese un valor: ' );
-format;
-disp (' format')
-
-format short
-
-format long
-
-format +
-
-format bank
-
-format rat
-
-format hex
-
-
-scicy,  octave
