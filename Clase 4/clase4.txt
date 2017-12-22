@@ -1,0 +1,273 @@
+A = ones(2,5), v=[1:5]
+
+A =
+
+     1     1     1     1     1
+     1     1     1     1     1
+
+
+v =
+
+     1     2     3     4     5
+
+size(A)
+
+ans =
+
+     2     5
+
+size(A,1)
+
+ans =
+
+     2
+
+size(A,2)
+
+ans =
+
+     5
+
+[f c] = size(A)
+
+f =
+
+     2
+
+
+c =
+
+     5
+
+lenght(A)
+{Undefined function or variable 'lenght'.
+} 
+lenght(A)
+{Undefined function or variable 'lenght'.
+} 
+length(A)
+
+ans =
+
+     5
+
+max(size(A))
+
+ans =
+
+     5
+
+# Operaciones algebraicas
+ # Operaciones algebraicas
+ 
+{Error: The input character is not valid in MATLAB statements or expressions.
+} 
+% Operaciones algebraicas
+A = [1 2; 3 4]
+
+A =
+
+     1     2
+     3     4
+
+B=[-1 4; 1 -2]
+
+B =
+
+    -1     4
+     1    -2
+
+C=[1 2 3; 4 5 6}]
+ C=[1 2 3; 4 5 6}]
+                
+{Error: Unbalanced or unexpected parenthesis or bracket.
+} 
+C=[1 2 3; 4 5 6]
+
+C =
+
+     1     2     3
+     4     5     6
+
+A+B
+
+ans =
+
+     0     6
+     4     2
+
+3*A
+
+ans =
+
+     3     6
+     9    12
+
+A*C
+
+ans =
+
+     9    12    15
+    19    26    33
+
+C'
+
+ans =
+
+     1     4
+     2     5
+     3     6
+
+A, A.', A'
+
+A =
+
+     1     2
+     3     4
+
+
+ans =
+
+     1     3
+     2     4
+
+
+ans =
+
+     1     3
+     2     4
+
+det(A), det(B)
+
+ans =
+
+    -2
+
+
+ans =
+
+    -2
+
+A, inv(A)
+
+A =
+
+     1     2
+     3     4
+
+
+ans =
+
+   -2.0000    1.0000
+    1.5000   -0.5000
+
+A*inv(A)
+
+ans =
+
+    1.0000         0
+    0.0000    1.0000
+
+B, inv(B), inv(B)*B
+
+B =
+
+    -1     4
+     1    -2
+
+
+ans =
+
+    1.0000    2.0000
+    0.5000    0.5000
+
+
+ans =
+
+     1     0
+     0     1
+
+C.'*(A-2*B)
+
+ans =
+
+     7    26
+    11    28
+    15    30
+
+u=[-1 2 3]; v=[5 -7 9];
+dot(u,v) % Producto escalar
+
+ans =
+
+     8
+
+u(1)
+
+ans =
+
+    -1
+
+u(1)*v(1)+u(2)*v(2)+u(3)*v(3)
+
+ans =
+
+     8
+
+cross(u,v)
+
+ans =
+
+    39    24    -3
+
+x1=[-1; 2; 3]; x2=[5; -7; 9];
+cross(x1,x2)
+
+ans =
+
+    39
+    24
+    -3
+
+cross(u',v')
+
+ans =
+
+    39
+    24
+    -3
+
+cross(v',u')
+
+ans =
+
+   -39
+   -24
+     3
+
+%Propiedades de producto vectorial, álgebra con traspuestas
+cross(v,u)
+
+ans =
+
+   -39   -24     3
+
+sd0031
+Definiendo matrices:
+sd0031
+Definiendo matrices:
+sd0031
+Definiendo matrices:
+sd0031
+Definiendo matrices:
+sd0031
+Definiendo matrices:
+sd0031
+Definiendo matrices:
+clc
+sd0031
+Definiendo matrices:
+kiad varC03
+{Undefined function or variable 'kiad'.
+} 
+load varC03
