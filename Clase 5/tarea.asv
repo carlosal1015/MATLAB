@@ -60,11 +60,9 @@ E(2,1)=-3
 A = magic(4)
 E*A
 disp('21. B = [A b] crea una matriz aumentada con b como columna adicional:')
-disp('Matriz A:')
-A = [2 -1 1; 1 1 0; 0 1 -3]
-disp('Vector columna b:')
-b = [3; 3; -7]
-Aumentada=[A b]
+A = [2 -1 1; 1 1 0; ]
+
+[m n] = size(A)
 disp('22. E = eye(3); P = E([2 1 3],:) genera una matriz de permutación:')
 E = eye(3)
 P = E([2 1 3] ,:)

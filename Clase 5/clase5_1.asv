@@ -39,8 +39,4 @@ M = reshape(3:2:42, 4, 5)
 %cambiando el último valor por 100
 M(end)=100
 %fila 2 hasta columna 4 x cero
-M(2, 1: 4)= zeros(1, 4) %M(2,1:4)=0
-%columna 3 cambiar por 55
-M(:,3)=55*ones(4,1) % M(:,3)=55
-%Eliminar columna 2
-M(:,2)=[]
+M(2, 1: 4)
