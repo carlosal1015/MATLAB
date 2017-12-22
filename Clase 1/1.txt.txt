@@ -1,3 +1,0 @@
-En Brasil MB 2, Ginebra I ciclo.
-
-n = input (' ingrese un valor: ' );
