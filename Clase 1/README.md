@@ -1,5 +1,7 @@
 # Primera clase (18/12/2017) #
 
+**Observación:** Para ingresar a la primera clase haga clic [aquí](https://github.com/carlosal1015/MATLAB/blob/master/Clase%201/Primera%20clase.ipynb) :smile:
+
 **¿Qué es MATLAB?**
 
 MatLab significa MaTrix LABoratory. Se pueden hacer gráficos en 2-D y 3-D.
