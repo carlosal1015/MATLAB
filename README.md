@@ -1,12 +1,15 @@
 # Curso de MATLAB #
 
-Profesora: Maria Pimentel Herrera.
+Profesora: Mate. **Luz Maria Pimentel Herrera.**
 Aula: 406.
 
 Inicio de clases: 18 de diciembre del 2017.
+
 Fin de clases: 28 de diciembre del 2017.
 
-**Primera clase**
+Todas las clases las puedes encontrar en los siguientes links:
+**[Primera clase](https://github.com/carlosal1015/MATLAB/blob/master/Clase%201/Primera%20clase.ipynb)**
+
 
 La versión de MATLAB que usará es la siguiente:
 
