@@ -1,3 +1,4 @@
+clc;
 function cuerda
 x=linspace(0,2*pi,1000); n=50
 for j=1:n

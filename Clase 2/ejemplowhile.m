@@ -1,7 +1,9 @@
-p=input('Ingrese un numro entero mayor a 0: ');
-disp('Imprimiendo valores enteros decrecientes');
+clc;
+p = input('Ingrese un número natural:');
+
+disp('Imprimiendo valores enteros decrecientes:');
+
 while p>0
-    fprintf('%7.0f',p);
+    fprintf('%d\n',p);
     p=p-1;
 end
-fprintf('\n');

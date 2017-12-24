@@ -1,6 +1,7 @@
 # Curso de MATLAB #
 
-Profesora: Mate. **Luz Maria Pimentel Herrera.**
+Profesora: Mat. **Luz Maria Pimentel Herrera.**
+
 Aula: 406.
 
 Inicio de clases: 18 de diciembre del 2017.
