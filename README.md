@@ -13,3 +13,9 @@ La versión de MATLAB que usará es la siguiente:
 <p align="center">
   <img src="https://github.com/carlosal1015/MATLAB/blob/master/images/logomatlab.png" width="250">
 </p>
+
+y la versión de GNU Octave que se usará es la siguiente:
+
+<p align="center">
+  <img src="https://github.com/carlosal1015/MATLAB/blob/master/images/logomatlab.png" width="250">
+</p>
