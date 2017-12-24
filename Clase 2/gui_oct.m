@@ -1,3 +1,5 @@
+% IMPORTANT FOR MATLAB USERS: Change keyword 'endfunction' to 'end'.
+
 function varargout = gui_oct(varargin)
 % GUI_OCT M-file for gui_oct.fig
 %      GUI_OCT, by itself, creates a new GUI_OCT or raises the existing

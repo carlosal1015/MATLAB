@@ -1,8 +1,8 @@
-clc
-%funciones trigonométricas
-disp('ángulos conocidos');
+clear all, clc;
+%funciones trigonomÃ©tricas
+disp('Ã¡ngulos conocidos');
 v=[pi/6 pi/4 pi/3];
-disp('ángulos : pi/6 pi/4 pi/3');
+disp('Ã¡ngulos : pi/6 pi/4 pi/3');
 fprintf('f.sen:%8.2f %8.2f %8.2f\n',sin(v(1)),sin(v(2)),sin(v(3)));
 fprintf('f.cos:%8.2f %8.2f %8.2f\n',cos(v(1)),cos(v(2)),cos(v(3)));
 fprintf('f.tan:%8.2f %8.2f %8.2f\n',tan(v(1)),tan(v(2)),tan(v(3)));

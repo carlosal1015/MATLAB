@@ -1,6 +1,6 @@
-clear all
-m=input('ingrese un valor entero >1: ');
-n=input('ingrese un valor entero >1: ');
+clear all, clc;
+m=input('Ingrese el némero de filas: ');
+n=input('ingrese el némero de columnas: ');
 for i=1:m
     for j=1:n
         A(i,j)=i+j;

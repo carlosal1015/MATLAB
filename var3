@@ -1,0 +1,37 @@
+# Created by Octave 4.2.1, Sun Dec 24 15:11:24 2017 -05 <carlosal1015@RoadtoGSoC2018>
+# name: A
+# type: matrix
+# rows: 3
+# columns: 3
+ 1 2 3
+ 4 5 6
+ 7 8 9
+
+
+# name: B
+# type: matrix
+# rows: 3
+# columns: 3
+ 2 -4 6
+ 8 -1 0
+ 7 4 7
+
+
+# name: C
+# type: matrix
+# rows: 3
+# columns: 3
+ -1 6 -3
+ -4 6 6
+ 0 4 2
+
+
+# name: D
+# type: matrix
+# rows: 3
+# columns: 3
+ -1 6 -3
+ -4 6 6
+ 0 4 2
+
+

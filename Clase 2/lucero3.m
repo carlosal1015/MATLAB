@@ -8,4 +8,3 @@ C= (I).', D=transpose (I)
 disp('potenciacion de la matriz')
 C= A^2 %C=A*A
 D=mpower (A,2)
-

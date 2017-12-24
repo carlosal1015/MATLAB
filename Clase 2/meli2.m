@@ -1,8 +1,8 @@
-clc
+clear all, clc;
 %funciones trigonometricas
-disp('·ngulos conocidos');
+disp('√Ångulos conocidos');
 v=[30 45 60];
-disp('·ngulos: 30 45 60')
+disp('√Ångulos: 30 45 60')
 fprintf('f.sen:%8.2f %8.2f %8.2f\n',sind(v(1)),sind(v(2)),sind(v(3)));
 fprintf('f.cos:%8.2f %8.2f %8.2f\n',cosd(v(1)),cosd(v(2)),cosd(v(3)));
 fprintf('f.tan:%8.2f %8.2f %8.2f\n',tand(v(1)),tand(v(2)),tand(v(3)));
