@@ -1,0 +1,11 @@
+clear all, clc;
+% Imprime valores disminuyendo en 0.2
+% Creando una matriz como la suma de
+m = input('Ingrese un valor entero > 1: ')
+n = input('Ingrese un valor entero > 1: ')
+for i=1:m
+    for j=1:n
+        A(i,j)=i+j;
+    end
+end
+A
