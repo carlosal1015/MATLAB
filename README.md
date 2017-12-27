@@ -6,7 +6,7 @@ Aula: 406.
 
 Inicio de clases: 18 de diciembre del 2017.
 
-Fin de clases: 28 de diciembre del 2017.
+Fin de clases: 29 de diciembre del 2017.
 
 Todas las clases las puedes encontrar en los siguientes links:
 
