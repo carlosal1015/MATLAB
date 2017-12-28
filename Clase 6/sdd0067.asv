@@ -1,4 +1,0 @@
-clear all, clc;
-syms x y
-f = sin(x*y)+cos(x*y^2);
-fx=diff()
