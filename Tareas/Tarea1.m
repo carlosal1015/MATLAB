@@ -43,3 +43,28 @@ R+S
 disp('14. Multiplicar las matrices R y S:')
 %R*S
 disp('15. Multiplicar R con la transpuesta de S:')
+R*S.'
+disp('16. Multiplicar R y S componente a componente:')
+R.*S
+disp('17. Eleve 3 a cada elemento de R:')
+R.^3
+disp('18. Obtener la inversa de cada elemento de R:')
+format rat
+R.^(-1)
+format
+disp('19. Hallar la matriz inversa de K:')
+inv(K)
+disp('20. E = eye(4); E(2, 1) = -3 crea una matriz de eliminación elemental de 4 × 4. E*A resta 3 veces la fila 1 de la fila 2 de A:')
+E = eye(4)
+E(2,1)=-3
+A = magic(4)
+E*A
+disp('21. B = [A b] crea una matriz aumentada con b como columna adicional:')
+disp('Matriz A:')
+A = [2 -1 1; 1 1 0; 0 1 -3]
+disp('Vector columna b:')
+b = [3; 3; -7]
+Aumentada=[A b]
+disp('22. E = eye(3); P = E([2 1 3],:) genera una matriz de permutación:')
+E = eye(3)
+P = E([2 1 3] ,:)
