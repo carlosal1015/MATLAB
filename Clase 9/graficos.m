@@ -22,7 +22,7 @@ function varargout = graficos(varargin)
 
 % Edit the above text to modify the response to help graficos
 
-% Last Modified by GUIDE v2.5 29-Dec-2017 16:06:27
+% Last Modified by GUIDE v2.5 29-Dec-2017 17:07:11
 
 % Begin initialization code - DO NOT EDIT
 gui_Singleton = 1;
@@ -52,10 +52,10 @@ function graficos_OpeningFcn(hObject, eventdata, handles, varargin)
 % handles    structure with handles and user data (see GUIDATA)
 % varargin   command line arguments to graficos (see VARARGIN)
 handles.peaks = peaks(45);
-handles.membrane = membrane;
-[x y] = meshgrid(-8: .5:8);
+handles.membrana = membrane;
+[x, y] = meshgrid(-8:0.5: 8);
 r = sqrt(x.^2 + y.^2) + eps;
-sinc = sin(r)./r;
+sinc = sin(r)./ r;
 handles.sinc = sinc
 handles.current_data = handles.peaks;
 surf(handles.current_data)
@@ -116,13 +116,13 @@ function popupmenu1_Callback(hObject, eventdata, handles)
 % handles    structure with handles and user data (see GUIDATA)
 val = get(hObject, 'Value');
 str = get(hObject, 'String');
-switch str(val);
-    case 'Peaks' % Usuario selecciona peaks
-    handles.current_data = handles.peaks;
-    case 'Membrane' % Usuario selecciona membrane
-    handles.current_data = handles.membrane;
-    case 'Sinc' % Usuario selecciona membrane
-    handles.current_data = handles.sinc;
+switch str{val};
+case 'peaks' % Usuario selecciona peaks
+handles.current_data = handles.peaks;
+case 'membrana' % Usuario selecciona membrane
+handles.current_data = handles.membrana;
+case 'sinc' % Usuario selecciona membrane
+handles.current_data = handles.sinc;
 end
 guidata(hObject, handles)
 % Hints: contents = cellstr(get(hObject,'String')) returns popupmenu1 contents as cell array
