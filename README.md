@@ -12,11 +12,11 @@ Todas las clases las puedes encontrar en los siguientes links:
 
 **[Primera clase 18/12/2017](https://github.com/carlosal1015/MATLAB/blob/master/Clase%201/Primera%20clase.ipynb)**
 
-**[Segunda clase 19/12/2017]()**
+**[Segunda clase 19/12/2017](https://github.com/carlosal1015/MATLAB/blob/master/Clase%202/Segunda%20clase.ipynb)**
 
-**[Tercera clase 20/12/2017]()**
+**[Tercera clase 20/12/2017](https://github.com/carlosal1015/MATLAB/blob/master/Clase%203/Tercera%20clase.ipynb)**
 
-**[Cuarta clase 21/12/2017]()**
+**[Cuarta clase 21/12/2017](https://github.com/carlosal1015/MATLAB/tree/master/Clase%204)**
 
 **[Quinta clase 22/12/2017]()**
 
