@@ -16,17 +16,17 @@ Todas las clases las puedes encontrar en los siguientes links:
 
 **[Tercera clase 20/12/2017](https://github.com/carlosal1015/MATLAB/blob/master/Clase%203/Tercera%20clase.ipynb)**
 
-**[Cuarta clase 21/12/2017]()**
+**[Cuarta clase 21/12/2017](https://github.com/carlosal1015/MATLAB/blob/master/Clase%204/Cuarta%20clase.ipynb)**
 
 **[Quinta clase 22/12/2017](https://github.com/carlosal1015/MATLAB/blob/master/Clase%205/Quinta%20clase.ipynb)**
 
 **[Sexta clase 26/12/2017](https://github.com/carlosal1015/MATLAB/blob/master/Clase%206/Sexta%20clase.ipynb)**
 
-**[Séptima clase 27/12/2017]()**
+**[Séptima clase 27/12/2017](https://github.com/carlosal1015/MATLAB/blob/master/Clase%207/S%C3%A9ptima%20clase.ipynb)**
 
-**[Octava clase 28/12/2017]()**
+**[Octava clase 28/12/2017](https://github.com/carlosal1015/MATLAB/blob/master/Clase%208/Octava%20clase.ipynb)**
 
-**[Octava clase 28/12/2017]()**
+**[Novena clase 28/12/2017](https://github.com/carlosal1015/MATLAB/tree/master/Clase%209)**
 
 La versión de MATLAB que usará es la siguiente:
 
