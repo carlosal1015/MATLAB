@@ -1,0 +1,4 @@
+http://www.robcas64.com/
+https://es.slideshare.net/diwal10/pilas-colas-y-listas-estructura-de-datos
+https://math.stackexchange.com/questions/11995/comparing-integral-resolutions-using-wolfram-alpha-mathematica?rq=1
+https://www.wolframalpha.com/input/?i=B%5E2%3DA,+A%3D%7B1,+2;+3,+4%7D
