@@ -26,7 +26,7 @@ Todas las clases las puedes encontrar en los siguientes links:
 
 **[Octava clase 28/12/2017](https://github.com/carlosal1015/MATLAB/blob/master/Clase%208/Octava%20clase.ipynb)**
 
-**[Novena clase 28/12/2017](https://github.com/carlosal1015/MATLAB/tree/master/Clase%209)**
+**[Novena clase 28/12/2017](https://github.com/carlosal1015/MATLAB/blob/master/Clase%209/Novena%20clase.ipynb)**
 
 La versión de MATLAB que usará es la siguiente:
 
