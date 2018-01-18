@@ -28,9 +28,11 @@ El curso dispone además de un **foro**, donde podéis transmitirnos vuestras du
 
 También ponemos a vuestra disposición una **Comunidad de Aprendizaje en la plataforma Google +**, donde, de manera similar a los foros, podéis comentar las dudas que os surjan a lo largo del curso, o hacer las sugerencias que os parezcan adecuadas. La Comunidad de Aprendizaje en Google + es también el lugar adecuado para establecer contacto con los profesores y el resto de alumnos del curso, tanto en esta edición como en las anteriores. El acceso a la Comunidad de aprendizaje en Google + lo podéis hacer a través del siguiente enlace:
 
+
 <p align="center">
   <b><https://plus.google.com/communities/103808937661770573155/b>
 </p>
+
 
 Tanto en los foros como en Google +, nuestra intención es **dejar que seáis vosotros mismos los que os resolváis las dudas unos a otros** y, solo en los casos en los que se considere imprescindible, intervenir los profesores para aclarar dudas no resueltas por los alumnos. De esta manera se pretende favorecer la interacción entre vosotros y favorecer un aprendizaje más profundo de las materias de estudio.
 
