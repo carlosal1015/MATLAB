@@ -36,14 +36,13 @@ También ponemos a vuestra disposición una **Comunidad de Aprendizaje en la pla
 
 Tanto en los foros como en Google +, nuestra intención es **dejar que seáis vosotros mismos los que os resolváis las dudas unos a otros** y, solo en los casos en los que se considere imprescindible, intervenir los profesores para aclarar dudas no resueltas por los alumnos. De esta manera se pretende favorecer la interacción entre vosotros y favorecer un aprendizaje más profundo de las materias de estudio.
 
-Por último indicar que todos los códigos de programas y ejemplos que se desarrollan a lo largo del curso los tenéis disponibles en un repositorio público de código que hemos creado en la plataforma Github. Se pretende con ello un doble objetivo: que tengáis todos los códigos a disposición en un solo lugar, de manera que os sea más fácil acceder a ellos, y que os acostumbréis a interactuar con una de las herramientas más utilizadas a día de hoy entre programadores para compartir código de programas, como es la plataforma **Github**. El enlace al repositorio de código es el siguiente:
+Por último indicar que todos los códigos de programas y ejemplos que se desarrollan a lo largo del curso los tenéis disponibles en un repositorio público de código que hemos creado en la plataforma Github. Se pretende con ello un doble objetivo: que tengáis todos los códigos a disposición en un solo lugar, de manera que os sea más fácil acceder a ellos, y que os acostumbréis a interactuar con una de las herramientas más utilizadas a día de hoy entre programadores para compartir código de programas, como es la plataforma **GitHub**. El enlace al repositorio de código es el siguiente:
 
 </p>
 <p align="center">
   <b>https://github.com/shigueraupm/mooc2017</b>
   <br>
 </p>
-
 
 Sin otro particular, os deseamos a todos que os guste el curso y que os sirva para aprender un montón acerca de cómo utilizar MATLAB y Octave y cómo programar en **lenguaje m**, que es como se denomina al lenguaje de programación utilizado por estos dos magníficos softwares.
 
