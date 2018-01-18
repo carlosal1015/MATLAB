@@ -33,6 +33,14 @@ También ponemos a vuestra disposición una **Comunidad de Aprendizaje en la pla
   <b><https://plus.google.com/communities/103808937661770573155/b>
 </p>
 
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  <img src="http://s.4cdn.org/image/title/105.gif">
+</p>
 
 Tanto en los foros como en Google +, nuestra intención es **dejar que seáis vosotros mismos los que os resolváis las dudas unos a otros** y, solo en los casos en los que se considere imprescindible, intervenir los profesores para aclarar dudas no resueltas por los alumnos. De esta manera se pretende favorecer la interacción entre vosotros y favorecer un aprendizaje más profundo de las materias de estudio.
 
