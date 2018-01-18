@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/carlosal1015/MATLAB/blob/master/Mir%C3%ADadaX/images/peaks.png" width="250">
+  <img src="https://github.com/carlosal1015/MATLAB/blob/master/Mir%C3%ADadaX/images/peaks.png" width="450">
 </p>
 
 En nombre del equipo de profesores, os damos la bienvenida al curso **'MATLAB y OCTAVE para Ingenieros y Científicos'**.
