@@ -30,9 +30,7 @@ También ponemos a vuestra disposición una **Comunidad de Aprendizaje en la pla
 
 </p>
 <p align="center">
-  <b>https://plus.google.com/communities/103808937661770573155</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> 
+  <b>https://plus.google.com/communities/103808937661770573155</b>
   <br><br>
 </p>
 
