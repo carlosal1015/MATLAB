@@ -1,7 +1,8 @@
 % Ejercicio compilado en Octave 4.2.1 para "x86_64-pc-linux-gnu".
-% Autor: Oromion
+% Autor: Oromion.
 % GitHub: https://github.com/carlosal1015
 % Ayuda: https://goo.gl/n6L4t3
+% Idea: https://la.mathworks.com/matlabcentral/answers/266969-combine-two-matrices-every-other-column
 
 clear all, clc; % Limpiar la consola y datos almacenados.
 fprintf(['Actividad del módulo 2 del curso Matlab y Octave para ingenieros y científicos:\n\n', ...
@@ -21,16 +22,8 @@ if rem(colA,2)==1 % El número de columnas de A es impar.
     colA = colA + 1;
 end
 
-A1 = A(:, [1:colA/2])
-A2 = A(:, [1+(colA/2):colA])
+A1 = A(:, [1:colA/2]) % Primera submatriz A1.
+A2 = A(:, [1+(colA/2):colA]) % Segunda submatriz A2.
 
-%filB = size(A1,1) + size (A2,1); % Número de filas de B.
-%colB = colA/2; % Número de columnas de B.
-
-Brows=((1:floor(filA/2))-1)*2+1
-
-B1=A1(Brows,:)
-
-B2=A2(Brows,:)
-
-B=[B1; B2]
+B = A2([1;1]*(1:size(A2,1)),:) % Duplica matriz A2.
+B(1:2:end,:) = A1 % Matriz pedida.
