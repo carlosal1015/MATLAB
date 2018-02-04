@@ -25,5 +25,5 @@ end
 A1 = A(:, [1:colA/2]) % Primera submatriz A1.
 A2 = A(:, [1+(colA/2):colA]) % Segunda submatriz A2.
 
-B = A2([1;1]*(1:size(A2,1)),:) % Duplica matriz A2.
+B = A2([1;1]*(1:size(A2,1)),:); % Duplica matriz A2.
 B(1:2:end,:) = A1 % Matriz pedida.
